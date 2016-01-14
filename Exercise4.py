@@ -19,7 +19,7 @@ class AB:
             return x
 
         if (K >k_max):
-            return '\'\''
+            return ""
 
         else:
 
